@@ -6,4 +6,4 @@ prior posting to Usenet, you may find my canlock
 program useful.
 
 It is importatnt that you use ' ' instead of " ",
-for the MI-D parameter, like '<12345@example.org>'
+for the MI-D parameter, in angle brackets.
